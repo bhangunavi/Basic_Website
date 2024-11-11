@@ -3,6 +3,7 @@ Basic_Website
 Here's a sample `README.md` file for your GitHub repository. It explains the purpose, features, and usage of your single-page resume, along with basic setup instructions.
 
 ---
+https://github.com/bhangunavi/Basic_Website/tree/main/Basic_Website
 
 # Navdeep Singh - Software Engineer (Single Page Resume)
 
